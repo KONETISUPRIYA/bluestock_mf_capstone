@@ -1,0 +1,28 @@
+DATA QUALITY SUMMARY
+
+1. Successfully loaded all 10 datasets.
+
+2. fund_master.csv contains 40 mutual fund schemes across 10 fund houses.
+
+3. Categories present:
+   - Equity
+   - Debt
+
+4. Risk categories present:
+   - Low
+   - Moderate
+   - High
+   - Moderately High
+   - Very High
+
+5. AMFI code validation completed.
+
+6. Total Fund Codes: 40
+   Total NAV Codes: 40
+
+7. All AMFI codes from fund_master.csv exist in nav_history.csv.
+
+8. No missing scheme mappings identified.
+
+Conclusion:
+Dataset passed initial structural validation and is ready for further analysis and performance calculations.
